@@ -1,0 +1,7 @@
+Asennettiin uusin cosmomc (April 2013).
+
+Käynnistettiin ajot Alcyonella, käytetyt datat: 
+	       1) Planck	       	  
+	       2) Planck + BAO
+
+Tiedostossa test.ini asetettiin param[w] = -0.99 -3.5 -0.34 0.2 0.2
