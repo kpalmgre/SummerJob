@@ -1,0 +1,1 @@
+Next, we need to add the online Github repository (the origin), this is done by adding a remote origin (notice that you'll need to change Sirupsen and Test to reflect your own user, and repository):
