@@ -1,0 +1,13 @@
+
+23.5.
+
+- 1. ajo valmis (pelkkä Planck-data).
+  - GetDist-testausta
+	asetettiin ignore_rows = 0.4
+
+- Vanhalla koodilla (InteractDEforPortsmouth) ajot:
+  	   Muokkaukset tiedostossa params.ini:
+	   1. oletus: gammaoH0        = 0.3
+	   2. gammaoH0        = 0.0000000000000003 (käytännössä = 0)
+	   Näistä vertailukuvaaja ClscurveComparison.pdf.
+
