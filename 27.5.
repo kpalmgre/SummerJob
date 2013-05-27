@@ -1,0 +1,13 @@
+
+27.5.
+
+- GetDist tuloksille (Planck + BAO) (lisätty Git:iin jo aiemmin)
+  	       ignore_rows = 0.4
+
+-GetDist vertailukuvaajat datoille pelkkä Planck ja Planck+BAO
+
+	 - tiedostossa distparams.ini
+  	      file_root = chains/test2
+	      ignore_rows = 0.4
+	      compare_num = 1
+	      compare1 = chains/test
