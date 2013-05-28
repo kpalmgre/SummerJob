@@ -1,0 +1,15 @@
+
+28.5. 
+
+Plotit muutoin vanhoilla asetuksilla, paitsi tiedostossa distparams.ini:
+       mukaan w, muut parametrit: omegabh2 omegach2 tau omegak ns nrun logA omegal (triangle-plotteja varten)
+
+- triangle plots:
+  	   x pelkkä Planck-data
+	   x Planck+BAO-data
+
+- 1D kuvaajat (onnistui matlabilla, octavella ei): 
+  	   x pelkkä Planck-data
+	   x Planck+BAO-data
+
+p.s. Matlabilla tuotetut kuvaajat näyttävät paremmilta kuin Octavella piirretyt.
