@@ -1,0 +1,4 @@
+Plotteja ajoista, joissa parametreinä:
+	param[omegak] = 0 0 0 0 0
+	param[wa] = 0.001 -2 2 0.2 0.2
+	param[w] = -0.99 -3.5 -0.34 0.2 0.2
